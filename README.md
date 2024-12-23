@@ -21,3 +21,9 @@ npm install
 npm run dev
 ```
 
+## Contact e Link🌐  
+
+- **LinkedIn**  : [Salvatore Di Dio](https://www.linkedin.com/in/salvatore-di-dio-/)
+- **Email**  : didiosalvatore25@gmail.com
+- **Sito** : [WEB-SITE](https://dna-metrics.netlify.app/)
+
