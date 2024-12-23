@@ -4,7 +4,7 @@
       <!-- Logo -->
       <div class="flex items-center">
         <img
-          src="../assets/img/DnA_logo.png"
+          src="../assets/img/DnA_Logo.png"
           alt="Logo"
           class="w-10 h-10 md:w-12 md:h-12 object-contain"
         />
